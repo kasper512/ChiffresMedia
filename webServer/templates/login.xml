@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+	<status>{{user.is_active}}</status>
+	<firstName>{{user.first_name}}</firstName>
+	<lastName>{{user.last_name}}</lastName>
+	<email>{{user.email}}</email>
+</login>
